@@ -1,0 +1,22 @@
+{
+  "name": "p5-mapgen",
+  "version": "0.0.1",
+  "description": " Map generator using p5.js to be used in games and other applications in the future. ",
+  "main": "mapgen.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkfngs/p5-mapgen.git"
+  },
+  "author": "Christopher Stokes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xkfngs/p5-mapgen/issues"
+  },
+  "homepage": "https://github.com/xkfngs/p5-mapgen#readme"
+}
